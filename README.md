@@ -1,13 +1,6 @@
 # Movie Recommendation System
 This project implements a Movie Recommendation System using a Jupyter Notebook (movie_recommendation_system.ipynb). The system suggests similar movies based on a user's input using cosine similarity and TF-IDF vectorization on features like genres, keywords, tagline, cast, and director.
 
-## Table of Contents
-Dataset
-Features
-Installation
-Usage
-Dependencies
-
 ## Dataset
 The dataset used for this project is a CSV file (movies.csv) containing information about various movies, such as:
 
